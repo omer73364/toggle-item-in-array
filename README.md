@@ -21,6 +21,12 @@ A JavaScript function to toggle a value in an array with an optional validation 
         
         then you can use it as a function by "toggle" name
         
+### HTML:
+      include the library in your html page
+        <script src="https://unpkg.com/toggle-item-in-array@1.0.1/toggle-item-in-array.js"></script>
+        
+        then you can use it as a function by "toggle" name
+        
 ##  example:
       let arr = [12]
       
