@@ -1,7 +1,9 @@
 # toggle-item-in-array
+
 A JavaScript function to toggle a value in an array with an optional validation function
 
 # toggle function adds or removes a value from an array
+
 ## it accepts three parameters:
  
    1) an array
@@ -12,22 +14,32 @@ A JavaScript function to toggle a value in an array with an optional validation 
  if not then it adds the value to the array
  
 ##  usage:
+
   ### NPM:
+  
       download this library:
+      
         npm i toggle-item-in-array --save
         
+        
       then import it:
+      
         import { toggle } from 'toggle-item-in-array';
         
-        then you can use it as a function by "toggle" name
+        
+      then you can use it as a function by "toggle" name
         
 ### HTML:
+
       include the library in your html page
+      
         <script src="https://unpkg.com/toggle-item-in-array@1.0.1/toggle-item-in-array.js"></script>
         
-        then you can use it as a function by "toggle" name
+        
+      then you can use it as a function by "toggle" name
         
 ##  example:
+
       let arr = [12]
       
       toggle(arr,5) // will add 5 to arr
