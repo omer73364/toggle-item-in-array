@@ -1,0 +1,38 @@
+{
+  "name": "toggle-item-in-array",
+  "version": "1.0.1",
+  "description": "A JavaScript function to toggle a value in an array with an optional validation function",
+  "main": "toggle-item-in-array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omer73364/toggle-item-in-array.git"
+  },
+  "keywords": [
+    "toggle",
+    "array",
+    "push",
+    "remove",
+    "pop",
+    "splice",
+    "js",
+    "javascript",
+    "addRemove",
+    "library",
+    "function",
+    "to",
+    "add",
+    "element",
+    "from",
+    "validation",
+    "value"
+  ],
+  "author": "OMER ANWAR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omer73364/toggle-item-in-array/issues"
+  },
+  "homepage": "https://github.com/omer73364/toggle-item-in-array#readme"
+}
