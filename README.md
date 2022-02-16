@@ -1,6 +1,6 @@
 # toggle-item-in-array
 
-A JavaScript function to toggle a value in an array with an optional validation function
+A JavaScript package to toggle a value in an array with an optional validation function
 
 # toggle function adds or removes a value from an array
 
